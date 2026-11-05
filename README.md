@@ -1,4 +1,4 @@
-# A Wasserstein Autoencoder-Physical Feature Interaction Active Learning Framework for Enhancing Piezocatalytic Performance
+# Generative Active Learning-Assisted Design of Piezoelectric Ceramic Catalysts
 The main content consists of seven code files and two datasets.
 **FWAE.ipynb** is the core framework file, which includes feature data analysis used to select the optimal feature combinations. It then performs latent space generation and sampling, including steps such as Wasserstein Autoencoder, Gaussian Mixture Model clustering, Monte Carlo sampling, and classifier training.
 **t-SNE.ipynb** is used to evaluate the similarity between the original data and the data reconstructed by the WAE model.
